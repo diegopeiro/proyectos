@@ -5,7 +5,7 @@ theme = "soho"
 
 [params]
 author = "Diego Peiró"
-description = "Este es mi blog"
+description = "Este es mi blog en Hugo"
 
 ## Set one of:
 # gravatar = "soho@example.com"
@@ -16,7 +16,7 @@ license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 
 ## Set custom theme color.
-# themeColor = "#6F4E37"
+themeColor = "#6F4E37"
 
 ## Set custom CSS and/or JS to override site defaults.
 customCss = ["css/blog.css"]
@@ -25,18 +25,19 @@ customJs = ["js/blog.js"]
   ## Set as many as you want.
   [[params.socialIcons]]
   icon = "fa-linkedin"
-  title = "Linkedin"
-  url = "#"
+  title = "LinkedIn"
+  url = ""
 
   [[params.socialIcons]]
   icon = "fa-github"
   title = "GitHub"
-  url = "#"
+  url = "https://github.com/diegopeiro/proyectos.git"
 
   [[params.socialIcons]]
   icon = "fa-twitter"
   title = "Twitter"
-  url = "#"
+  url = ""
+
 
 [menu]
 
@@ -45,30 +46,6 @@ customJs = ["js/blog.js"]
   weight = 100
   identifier = "posts"
   url = "/posts/"
-
-  [[menu.main]]
-  name = "Sobre mi"
-  identifier = "about"
-  weight = 300
-  url = "/sobre-mi/"
-
-  [[menu.main]]
-  name = "Markdown"
-  identifier = "md"
-  weight = 300
-  url = "/markdown/"
-
-  [[menu.main]]
-  name = "Canales Tv"
-  identifier = "tv"
-  weight = 300
-  url = "/canales-tv/"
-
-  [[menu.main]]
-  name = "Viaje a Canarias"
-  identifier = "viaje"
-  weight = 300
-  url = "/canarias/"
 
 [taxonomies]
   category = "categories"
@@ -85,5 +62,5 @@ customJs = ["js/blog.js"]
   lineNos = false
   lineNumbersInTable = true
   noClasses = true # if false, you need to provide you own custom CSS
-  style = "monokai"
+  style = "dracula"
   tabWidth = 4

@@ -2,28 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/canales-tv/</loc>
+    <loc>http://localhost:1313/posts/canales-tv/</loc>
     <lastmod>2024-10-28T19:11:49+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/bootstrap/</loc>
+    <lastmod>2024-11-12T12:51:05+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-28T19:11:49+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/markdown/</loc>
-    <lastmod>2024-10-28T19:08:37+01:00</lastmod>
+    <lastmod>2024-11-12T12:51:05+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-10-28T17:31:23+01:00</lastmod>
+    <lastmod>2024-11-12T12:51:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/segundo-post/</loc>
-    <lastmod>2024-10-28T17:31:23+01:00</lastmod>
+    <loc>http://localhost:1313/posts/viajecanarias/</loc>
+    <lastmod>2024-11-12T11:45:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/primer-post/</loc>
-    <lastmod>2024-10-28T17:30:44+01:00</lastmod>
+    <loc>http://localhost:1313/posts/markdown/</loc>
+    <lastmod>2024-10-28T19:08:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sobre-mi/</loc>
+    <loc>http://localhost:1313/posts/sobre-mi/</loc>
     <lastmod>2024-10-28T17:27:25+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/canarias/</loc>
+    <loc>http://localhost:1313/posts/primer-post/</loc>
+    <lastmod>2024-09-12T12:07:52+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

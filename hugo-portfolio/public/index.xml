@@ -6,49 +6,49 @@
     <description>Recent content on Diego Peiró</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Oct 2024 19:11:49 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 12:51:05 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Canales Tv</title>
-      <link>http://localhost:1313/canales-tv/</link>
+      <link>http://localhost:1313/posts/canales-tv/</link>
       <pubDate>Mon, 28 Oct 2024 19:11:49 +0100</pubDate>
-      <guid>http://localhost:1313/canales-tv/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/canales-tv/</guid>
+      <description>Listado de Canales </description>
+    </item>
+    <item>
+      <title>Bootstrap</title>
+      <link>http://localhost:1313/posts/bootstrap/</link>
+      <pubDate>Tue, 12 Nov 2024 12:51:05 +0100</pubDate>
+      <guid>http://localhost:1313/posts/bootstrap/</guid>
+      <description>Fuente información: Rockcontent&#xA;Qué es y para qué sirve Bootstrap es un framework front-end utilizado para desarrollar aplicaciones web y sitios mobile first, con un layout que se adapta a la pantalla del dispositivo utilizado por el usuario. ¡Aprende todo sobre esta tecnología y cómo utilizarla!&#xA;¿Qué es Bootstrap? Bootstrap es un framework CSS desarrollado por Twitter en 2010, para estandarizar las herramientas de la compañía.&#xA;Inicialmente, se llamó Twitter Blueprint y, un poco más tarde, en 2011, se transformó en código abierto y su nombre cambió para Bootstrap.</description>
+    </item>
+    <item>
+      <title>Viaje a Canarias</title>
+      <link>http://localhost:1313/posts/viajecanarias/</link>
+      <pubDate>Tue, 12 Nov 2024 11:45:31 +0100</pubDate>
+      <guid>http://localhost:1313/posts/viajecanarias/</guid>
+      <description>🌞 Escapada Inolvidable a Gran Canaria Cinco amigos, siete días y una isla espectacular. Esta es la crónica de un viaje lleno de aventura, paisajes inolvidables y buena compañía.&#xA;✈️ Participantes Chori: Cocinero del grupo Dalmau: Fotógrafo oficial Sonso: El conductor (un poco malillo) Castillo: Oranizador puro Diego: Ese amigo que todo viaje necesita Duración: 4 días&#xA;Fechas: 10 - 13 de Octubre&#xA;📅 Itinerario de Viaje Día 1: Llegada a Las Palmas Alojamiento: Airbnb en la zona de Maspalomas Actividades: Check-in, cena en un restaurante local, y paseo nocturno por el paseo marítimo.</description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/markdown/</link>
+      <link>http://localhost:1313/posts/markdown/</link>
       <pubDate>Mon, 28 Oct 2024 19:08:37 +0100</pubDate>
-      <guid>http://localhost:1313/markdown/</guid>
+      <guid>http://localhost:1313/posts/markdown/</guid>
       <description>Guía de Markdown Markdown es un lenguaje de marcado ligero que permite dar formato a texto de manera sencilla. Es ampliamente utilizado en plataformas como GitHub, blogs, y documentación.&#xA;1. Markdown Básico 1.1 Encabezados Usa # para crear encabezados. La cantidad de # indica el nivel de encabezado.&#xA;# H1 ## H2 ### H3 #### H4 ##### H5 ###### H6 Alt-H1 ====== Alt-H2 ------ 1.2 Énfasis Cursiva: usa texto o texto.</description>
     </item>
     <item>
-      <title>Segundo Post</title>
-      <link>http://localhost:1313/posts/segundo-post/</link>
-      <pubDate>Mon, 28 Oct 2024 17:31:23 +0100</pubDate>
-      <guid>http://localhost:1313/posts/segundo-post/</guid>
-      <description>Este es el segundo post</description>
+      <title>Sobre Mi</title>
+      <link>http://localhost:1313/posts/sobre-mi/</link>
+      <pubDate>Mon, 28 Oct 2024 17:27:25 +0100</pubDate>
+      <guid>http://localhost:1313/posts/sobre-mi/</guid>
+      <description>🖥️ Diego Peiró Desarrollador Web&#xA;📍 Zaragoza, España&#xA;📧 diegoprogramacionpeiro@gmail.com&#xA;🔗 LinkedIn | GitHub&#xA;👨‍💻 Sobre Mí Soy un desarrollador apasionado con habilidad para crear aplicaciones innovadoras y soluciones efectivas. Con un enfoque en el diseño limpio y la eficiencia, me esfuerzo por mejorar continuamente mis habilidades y ofrecer un código robusto y bien documentado.&#xA;Respecto a mis aficiones se dividen en dos: Por un lado la música electrónica, desde de pequeño he estado haciendo música.</description>
     </item>
     <item>
       <title>Primer Post</title>
       <link>http://localhost:1313/posts/primer-post/</link>
-      <pubDate>Mon, 28 Oct 2024 17:30:44 +0100</pubDate>
+      <pubDate>Thu, 12 Sep 2024 12:07:52 +0100</pubDate>
       <guid>http://localhost:1313/posts/primer-post/</guid>
-      <description>Hola esto es un post</description>
-    </item>
-    <item>
-      <title>Sobre Mi</title>
-      <link>http://localhost:1313/sobre-mi/</link>
-      <pubDate>Mon, 28 Oct 2024 17:27:25 +0100</pubDate>
-      <guid>http://localhost:1313/sobre-mi/</guid>
-      <description>🖥️ Diego Peiró Desarrollador Web&#xA;📍 Zaragoza, España&#xA;📧 diegoprogramacionpeiro@gmail.com&#xA;🔗 LinkedIn | GitHub | Portfolio Web&#xA;👨‍💻 Sobre Mí Soy un desarrollador apasionado con habilidad para crear aplicaciones innovadoras y soluciones efectivas. Con un enfoque en el diseño limpio y la eficiencia, me esfuerzo por mejorar continuamente mis habilidades y ofrecer un código robusto y bien documentado.&#xA;💼 Experiencia Profesional Actualmente estoy terminando el segundo año de DAW, por lo que no tengo experiencia laboral en el sector.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/canarias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/canarias/</guid>
-      <description>🌞 Escapada Inolvidable a Gran Canaria Cinco amigos, siete días y una isla espectacular. Esta es la crónica de un viaje lleno de aventura, paisajes inolvidables y buena compañía.&#xA;✈️ Participantes Chori: Cocinero del grupo Dalmau: Fotógrafo oficial Sonso: El conductor (un poco malillo) Castillo: Oranizador puro Diego: Ese amigo que todo viaje necesita Duración: 4 días&#xA;Fechas: 10 - 13 de Octubre&#xA;📅 Itinerario de Viaje Día 1: Llegada a Las Palmas Alojamiento: Airbnb en la zona de Maspalomas Actividades: Check-in, cena en un restaurante local, y paseo nocturno por el paseo marítimo.</description>
+      <description>Bienvenido a Mi Sitio Web 🌐 ¡Hola! 👋 Bienvenido a mi sitio web, desarrollado con el poderoso generador de sitios estáticos Hugo. Aquí encontrarás una colección de mis proyectos, una sección sobre mí y una manera de contactarme si tienes alguna consulta o deseas colaborar en algún proyecto.&#xA;📝 Descripción del Proyecto Este sitio web fue creado para presentar mis trabajos y experiencias en desarrollo web. Utilicé Hugo por su capacidad de generar sitios estáticos de manera rápida y eficiente.</description>
     </item>
   </channel>
 </rss>

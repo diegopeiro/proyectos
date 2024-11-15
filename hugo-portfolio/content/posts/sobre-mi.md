@@ -9,13 +9,15 @@ draft = false
 **Desarrollador Web**  
 📍 Zaragoza, España  
 📧 [diegoprogramacionpeiro@gmail.com](mailto:tuemail@example.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [GitHub](https://github.com/diegopeiro) | [Portfolio Web](https://tusitio.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [GitHub](https://github.com/diegopeiro) 
 
 ---
 
 ## 👨‍💻 Sobre Mí
 
 Soy un desarrollador apasionado con habilidad para crear aplicaciones innovadoras y soluciones efectivas. Con un enfoque en el diseño limpio y la eficiencia, me esfuerzo por mejorar continuamente mis habilidades y ofrecer un código robusto y bien documentado.
+
+Respecto a mis aficiones se dividen en dos: Por un lado la música electrónica, desde de pequeño he estado haciendo música. Y en segundo lugar, el baloncesto. Llevo jugando desde los 4 años y espero seguir jugando muchos años más.
 
 ## 💼 Experiencia Profesional
 

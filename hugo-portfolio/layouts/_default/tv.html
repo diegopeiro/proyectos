@@ -1,0 +1,28 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+<ul>
+  {{ range .Site.Data.tv }}
+  <table>
+    <caption>
+      <h2>{{ .name }}</h2>
+    </caption>
+    <tr>
+      {{ $counter := 0 }}
+      {{ range .channels }}
+      <td>
+        <a href="{{ .web }}">
+          <img src="{{ .logo }}" alt="{{ .name }}" style="width: 100px; height: auto;">
+        </a>
+      </td>
+      {{ $counter = add $counter 1 }}
+      {{ if eq (mod $counter 4) 0 }}
+      </tr><tr>
+      {{ end }}
+      {{ end }}
+    </tr>
+  </table>
+  {{ end }}
+</ul>
+{{ end }}

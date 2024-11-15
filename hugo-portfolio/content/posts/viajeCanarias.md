@@ -1,3 +1,10 @@
++++
+title = 'Viaje a Canarias'
+date = 2024-11-12T11:45:31+01:00
+draft = false
+layout = "album"
++++
+
 # 🌞 Escapada Inolvidable a Gran Canaria
 
 Cinco amigos, siete días y una isla espectacular. Esta es la crónica de un viaje lleno de aventura, paisajes inolvidables y buena compañía.

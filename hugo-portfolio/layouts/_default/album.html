@@ -1,0 +1,44 @@
+{{ define "main" }}
+<article>
+    <style>
+        .photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 15px;
+  padding: 20px;
+}
+
+.gallery-item {
+  display: block;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.gallery-item:hover {
+  transform: scale(1.05);
+}
+
+.gallery-thumbnail {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+    </style>
+  <header>
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </header>
+
+  <!-- Galería de imágenes -->
+  <div class="photo-gallery">
+    {{ range .Site.Data.album_canarias }}
+    <a href="{{ .src }}" class="gallery-item" data-lightbox="album">
+      <img src="{{ .src }}" alt="{{ .alt }}" class="gallery-thumbnail">
+    </a>
+    {{ end }}
+  </div>
+</article>
+{{ end }}
